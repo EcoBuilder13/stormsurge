@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/hwg.json"
+hash = "84bd22fef48f047b7e11eb02fb08f2a56aad8f3a43ac306628e1cad6d387d1d5"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "9d20a75021d2e8b57909eae5feae12480b583e106e4613e9a39614e45ae9856a"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "e7146761a337d57722f3fa5fc4beaa84244b100f5b3670ef933ef196a1b50e03"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "f30b15dc574856f6eca824f645537680ca12a6282bee89a33cbced66d6601dca"
 metafile = true
@@ -86,6 +98,11 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "2355898e55539353e3fe43057c1c2880e02ceb6b64c8f5d1e0bc2a660635c323"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
@@ -123,6 +140,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
 metafile = true
 
 [[files]]
