@@ -9,6 +9,18 @@ file = "config/modmenu.json"
 hash = "9d20a75021d2e8b57909eae5feae12480b583e106e4613e9a39614e45ae9856a"
 
 [[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "e4a7443a79062094da75959fac3c25381705032e4abd2089bbe0381e2b88917e"
+
+[[files]]
+file = "config/servertick.toml"
+hash = "86cbe39fd14aabad542ffa7deb2148346e1fc7646a386696191c8e1620579c96"
+
+[[files]]
 file = "config/styled-chat.json"
 hash = "e7146761a337d57722f3fa5fc4beaa84244b100f5b3670ef933ef196a1b50e03"
 
@@ -150,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "885f1cb690e38020936cb7b62db9136994f1f758e26794772bf4db4a3f596c41"
+metafile = true
+
+[[files]]
+file = "mods/servertick.pw.toml"
+hash = "4ad1f4d5630879670b010035610eb35e8fb3eec45b1d908f6a68b4a91ecbe843"
 metafile = true
 
 [[files]]
