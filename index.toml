@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/VillagerConfig/villagerconfig.json5"
+hash = "90cb828065991825c424bf58e2269cec1d3e7eb0dc6907e126f91233a77d7f87"
+
+[[files]]
+file = "config/fallingleaves.json"
+hash = "b48dd55e150147711b63409db15f5599b5e99ef2bde8a2e233a7e22ac9470783"
+
+[[files]]
 file = "config/hwg.json"
 hash = "84bd22fef48f047b7e11eb02fb08f2a56aad8f3a43ac306628e1cad6d387d1d5"
 
@@ -26,7 +34,7 @@ hash = "e7146761a337d57722f3fa5fc4beaa84244b100f5b3670ef933ef196a1b50e03"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "f30b15dc574856f6eca824f645537680ca12a6282bee89a33cbced66d6601dca"
+hash = "b7a10565ba673dd7e429f5961d565b6c805164f3415cb5e3a7030a57b80ff032"
 metafile = true
 
 [[files]]
@@ -192,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "b54a2d0cdb07a011d353462037ee68dfa2108767be8485c58f65fea4986cb934"
+metafile = true
+
+[[files]]
+file = "mods/villagerconfig.pw.toml"
+hash = "ab4605ed99915800dbc3cea7ce70907ef68d72d19b781ce8dc70a84cd9bfcee5"
 metafile = true
 
 [[files]]
