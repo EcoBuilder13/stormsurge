@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/VillagerConfig/villagerconfig.json5"
-hash = "90cb828065991825c424bf58e2269cec1d3e7eb0dc6907e126f91233a77d7f87"
+hash = "67bcf6e07ffab066652050f9a94286e601fa78d7869c279889ae83c0d21fa0ac"
 
 [[files]]
 file = "config/fallingleaves.json"
