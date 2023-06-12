@@ -17,6 +17,10 @@ file = "config/modmenu.json"
 hash = "9d20a75021d2e8b57909eae5feae12480b583e106e4613e9a39614e45ae9856a"
 
 [[files]]
+file = "config/powershot/breakable_blocks.json"
+hash = "1b8f749881868ec5109e8af0e2960bf693eedc7ea56cc4a9773a007347cb1f35"
+
+[[files]]
 file = "config/presencefootsteps/updater.json"
 hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
@@ -34,7 +38,7 @@ hash = "e7146761a337d57722f3fa5fc4beaa84244b100f5b3670ef933ef196a1b50e03"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "b7a10565ba673dd7e429f5961d565b6c805164f3415cb5e3a7030a57b80ff032"
+hash = "4045f332238c87efac25b33c3efba97ab9f548d5b37b4452aef32721bc40a42c"
 metafile = true
 
 [[files]]
@@ -44,12 +48,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "fdea52d254e5318fe4884301ca865356ade3f685798548aaa23804b25ff01ca1"
+hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "b71ff7308c2c874745edf74bc4d4614888ebe1a61015de88cfc1c84ee1203b0b"
+hash = "004ac83274017577823a92f5a7955c2f20df127aff74e3fcae30bec3b6bc55c2"
 metafile = true
 
 [[files]]
@@ -109,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/happiness-is-a-warm-gun.pw.toml"
-hash = "d580355e913562e891e4ad43ba9d4d1ec8b98470236e7093f6931a397c737357"
+hash = "4f4c6c498e98edf0ebfc80e3a6ec3808b435d2cecb2aeab60f9fc8052b3e37d2"
 metafile = true
 
 [[files]]
@@ -119,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
+hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
 metafile = true
 
 [[files]]
@@ -163,13 +167,18 @@ hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
+file = "mods/powershot.pw.toml"
+hash = "50e53c128caecb11771f69e4519f51c296f67308a738e9b278810fa23bca4283"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "f37d98015547fa4c5c392eec612376bebf6af9ed83cde466938bebf60c7ab68d"
+file = "mods/rei.pw.toml"
+hash = "21ae5782c5657fbdc90aa42f3d1cfe76168fe107d66f207ec210dc505c096f7b"
 metafile = true
 
 [[files]]
@@ -179,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "5f651bbd39a1afaba66fd43f5ba09e596b9f703bc296125d0de3f6aa24083866"
+hash = "af67464767a3bca3841a1b209b077448c4c56827f7da4ba1bd2cdf4e4584b312"
 metafile = true
 
 [[files]]
