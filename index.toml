@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "004ac83274017577823a92f5a7955c2f20df127aff74e3fcae30bec3b6bc55c2"
+hash = "0e1b0b1c8c3001250addfbd043692d6f03c59e7e22bf8a477f910f709ff530a2"
 metafile = true
 
 [[files]]
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "a51f3f98721a8e637e71c78d5413271cb0d4816a5d55a8b9cd5c19353d49f8a2"
+hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "af67464767a3bca3841a1b209b077448c4c56827f7da4ba1bd2cdf4e4584b312"
+hash = "868e361c475b7501a10bb9c393ffd5eb230d5e12f27095aa8b768ad4d8e4b363"
 metafile = true
 
 [[files]]
