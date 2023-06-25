@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "0e1b0b1c8c3001250addfbd043692d6f03c59e7e22bf8a477f910f709ff530a2"
+hash = "fac4759a235b48c2794af56248fcab25df1ef1a8a0fc94e2736ee7112ed90c1d"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "868e361c475b7501a10bb9c393ffd5eb230d5e12f27095aa8b768ad4d8e4b363"
+hash = "706bf1c754375cd2fc1d969f77afd0f523611a47888df4dcee2d5121dc55b3ba"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "ab4605ed99915800dbc3cea7ce70907ef68d72d19b781ce8dc70a84cd9bfcee5"
+hash = "464b7fb11e99b2779e1b21706a847fefa0c7ec9c8cd3809965e2710861c24f54"
 metafile = true
 
 [[files]]
