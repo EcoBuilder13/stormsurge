@@ -38,7 +38,7 @@ hash = "e7146761a337d57722f3fa5fc4beaa84244b100f5b3670ef933ef196a1b50e03"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "4045f332238c87efac25b33c3efba97ab9f548d5b37b4452aef32721bc40a42c"
+hash = "c7330ba6abcb6f74e184ac970ff66d8efbea5cb3e4cd747b9d1ae14aaac9279e"
 metafile = true
 
 [[files]]
@@ -54,6 +54,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "fac4759a235b48c2794af56248fcab25df1ef1a8a0fc94e2736ee7112ed90c1d"
+metafile = true
+
+[[files]]
+file = "mods/blossom.pw.toml"
+hash = "c8ceea3f6e287ba1101c596bb9879d726af9b60b029dc5b0fa394a4796ef4f68"
 metafile = true
 
 [[files]]
@@ -94,6 +99,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
 metafile = true
 
 [[files]]
@@ -199,6 +209,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/sooty-chimneys-fabric.pw.toml"
+hash = "881d950c1a67b1de086326011c93ced591d11b08085924dd03fc1ecd74f1f882"
 metafile = true
 
 [[files]]
